@@ -1,0 +1,12 @@
+export const CANVAS_WIDTH = 5000;
+export const CANVAS_HEIGHT = 5000;
+export const MIN_ZOOM = 0.1;
+export const MAX_ZOOM = 2;
+export const ZOOM_STEP = 0.1;
+export const CURSOR_UPDATE_THROTTLE = 50; // ms
+export const DEFAULT_SHAPE_COLOR = "#3b82f6";
+export const DEFAULT_SHAPE_WIDTH = 100;
+export const DEFAULT_SHAPE_HEIGHT = 100;
+export const DEFAULT_FONT_SIZE = 24;
+export const SELECTION_STROKE_COLOR = "#3b82f6";
+export const SELECTION_STROKE_WIDTH = 2;
