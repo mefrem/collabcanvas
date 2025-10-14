@@ -1,3 +1,4 @@
+import React from "react";
 import { Canvas } from "../components/canvas/Canvas";
 import { CanvasToolbar } from "../components/canvas/CanvasToolbar";
 import { CanvasControls } from "../components/canvas/CanvasControls";

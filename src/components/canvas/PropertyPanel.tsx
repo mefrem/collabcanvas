@@ -1,3 +1,4 @@
+import React from "react";
 import { useCanvas } from "../../contexts/CanvasContext";
 import { useAuth } from "../../contexts/AuthContext";
 import { updateObject, deleteObject } from "../../services/canvasService";

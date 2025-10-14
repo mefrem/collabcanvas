@@ -1,3 +1,4 @@
+import React from "react";
 import { useCanvas } from "../../contexts/CanvasContext";
 import { MIN_ZOOM, MAX_ZOOM, ZOOM_STEP } from "../../utils/constants";
 

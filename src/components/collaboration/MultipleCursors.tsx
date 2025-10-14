@@ -1,3 +1,4 @@
+import React from "react";
 import { Group, Circle, Text } from "react-konva";
 import { useCollaboration } from "../../contexts/CollaborationContext";
 import { useAuth } from "../../contexts/AuthContext";

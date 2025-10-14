@@ -1,3 +1,4 @@
+import React from "react";
 import type { ToolType } from "../../lib/types";
 import { useCanvas } from "../../contexts/CanvasContext";
 

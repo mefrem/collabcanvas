@@ -1,3 +1,4 @@
+import React from "react";
 import { useCollaboration } from "../../contexts/CollaborationContext";
 import { getUserColor } from "../../utils/canvasUtils";
 
